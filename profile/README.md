@@ -1,7 +1,7 @@
 <h1 align = 'center'>
   Cahier des charges pour l'application de rencontre NodeBlock
 </h1>
-
+sallon discord team <h2 https://discord.gg/fUmp2Xw2 </h2>
 <h2 align = 'center'> Introduction </h2>
 
 NodeBlock est une application de rencontre innovante qui utilise l'intelligence artificielle pour proposer des profils susceptibles de correspondre aux utilisateurs en se basant sur l'analyse de leurs personnalités et de leurs préférences. L'objectif principal de cette première version (MVP) est de permettre aux utilisateurs de se connecter et de recevoir des suggestions de profils avec lesquels organiser des rendez-vous.
